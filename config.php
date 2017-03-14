@@ -10,7 +10,7 @@ $config = array(
     'dbconfig'=>array(
         'dbhost'=>'127.0.0.1',
         'dbuser'=>'root',
-        'dbpsw'=>'cfc2013114',
+        'dbpsw'=>'',
         'dbname'=>'methaneaite',
         'dbcharset'=>'utf8'
     )
